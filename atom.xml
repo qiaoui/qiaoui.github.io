@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qiaoui.github.io</id>
     <title>QiaoClub×QiaoUI</title>
-    <updated>2021-08-06T08:54:37.970Z</updated>
+    <updated>2021-08-06T17:08:01.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qiaoui.github.io"/>
     <link rel="self" href="https://qiaoui.github.io/atom.xml"/>
@@ -11,32 +11,51 @@
     <icon>https://qiaoui.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, QiaoClub×QiaoUI</rights>
     <entry>
-        <title type="html"><![CDATA[QiaoClub投稿说明]]></title>
-        <id>https://qiaoui.github.io/post/qiaoclub-tou-gao-shuo-ming/</id>
-        <link href="https://qiaoui.github.io/post/qiaoclub-tou-gao-shuo-ming/">
+        <title type="html"><![CDATA[送给小可爱们的信]]></title>
+        <id>https://qiaoui.github.io/post/headbaout/</id>
+        <link href="https://qiaoui.github.io/post/headbaout/">
         </link>
-        <updated>2021-08-05T16:12:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://qiaoui.github.io/post-images/1628224853961.png" alt="" loading="lazy"></figure>
-<h1 id="投稿说明"><strong>投稿说明</strong></h1>
-<p>· 感谢您加入我们！<br>
-· 很荣幸你可以成为开发者，你可以将你的作品（.ppt/.pptx/.pptm/.ppsx/.ppsm/.exe）投稿到这里：</p>
-<p>投稿至邮箱：<br>
-3139346136@qq.com<br>
-a13711636136@126.com<br>
---——————————--<br>
-投稿至QQ群聊：<br>
-737196960</p>
-<p>· 你需在邮箱里附上：<br>
-<strong>介绍、开发者、下载链接、版本更新（可添加更新日志）、所需权限、反馈问题通道、应用截图</strong></p>
-<p>最后，感谢你成为QiaoClub开发者！🤞</p>
+        <updated>2021-08-06T14:15:29.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎你来到QiaoClub，这里将是一个什么都有的网页。</p>
+<h1 id="关于应用">关于应用</h1>
+<p>我们把应用分成了大致两类，您可以在页面最下方发送你的感想。<br>
+当然，<strong>如果你遇到问题，也请您及时向我们或者作者汇报，万分感谢！</strong></p>
+<p>·第一类应用，是通过我亲自打开并审核通过的投稿（如图。ps：只是在我的设备上检测过，如在您设备上运行，不一定能保证兼容性和安全性）<br>
+<img src="https://qiaoui.github.io/post-images/1628260913175.png" alt="" loading="lazy"><br>
+·第二类应用，是未经我审核上架的投稿（如图。ps：不一定是不安全，只是没经过我审核）<br>
+<img src="https://qiaoui.github.io/post-images/1628260917536.png" alt="" loading="lazy"></p>
+<h1 id="关于投稿">关于投稿</h1>
+<p><strong>如果你想在QiaoClub投稿应用，你可以点击页面右方的“我要投稿”进行投稿操作，我将非常荣幸的看到你成为我们的开发人员！</strong></p>
+<h1 id="联系我们">联系我们</h1>
+<p>我的QQ：3139346136<br>
+QQ群聊：737196960</p>
+<p>感谢你阅读完这封信，相信你对QiaoClub也有了一定了解，祝贺你成为QiaoClub的一员。<br>
+——来自 <strong>你的秋乔呐</strong>（<strong>3139346136@qq.com</strong>）的编辑</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安装QiaoUI]]></title>
-        <id>https://qiaoui.github.io/post/guan-yu-an-zhuang-qiaoui-de-shuo-ming/</id>
-        <link href="https://qiaoui.github.io/post/guan-yu-an-zhuang-qiaoui-de-shuo-ming/">
+        <title type="html"><![CDATA[预约应用·OceanOS]]></title>
+        <id>https://qiaoui.github.io/post/yu-yue-ying-yong-oceanos/</id>
+        <link href="https://qiaoui.github.io/post/yu-yue-ying-yong-oceanos/">
+        </link>
+        <updated>2021-08-06T13:45:56.000Z</updated>
+        <content type="html"><![CDATA[<p>OceanOS即将上架应用中心，尽请期待！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐应用＆投稿示例·QiaoUI]]></title>
+        <id>https://qiaoui.github.io/post/qiaoui/</id>
+        <link href="https://qiaoui.github.io/post/qiaoui/">
         </link>
         <updated>2021-08-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="介绍">介绍</h1>
+<p>QiaoUI船新版本即将更新啦！ 这一次，从‘新’开始。全新的UI设计，更好的动画效果，等你来体验！</p>
+<h1 id="作者">作者</h1>
+<p>你的秋乔呐</p>
+<h1 id="应用权限和版本信息">应用权限和版本信息</h1>
+<p><img src="https://qiaoui.github.io/post-images/1628227778788.png" alt="" loading="lazy"><br>
+应用版本：Dev</p>
+]]></summary>
         <content type="html"><![CDATA[<h1 id="介绍">介绍</h1>
 <p>QiaoUI船新版本即将更新啦！ 这一次，从‘新’开始。全新的UI设计，更好的动画效果，等你来体验！</p>
 <h1 id="作者">作者</h1>
@@ -44,6 +63,7 @@ a13711636136@126.com<br>
 <h1 id="应用权限和版本信息">应用权限和版本信息</h1>
 <p><img src="https://qiaoui.github.io/post-images/1628227778788.png" alt="" loading="lazy"><br>
 应用版本：Dev</p>
+<!-- more -->
 <h1 id="下载ui和反馈请点击这里">下载UI和反馈请点击这里</h1>
 <p>加入QQ群聊下载或反馈（<strong>推荐</strong>）：737196960<br>
 <s>阿里云盘：正在准备<br>
