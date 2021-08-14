@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qiaoui.github.io</id>
     <title>QiaoClub×QiaoUI</title>
-    <updated>2021-08-07T14:05:26.633Z</updated>
+    <updated>2021-08-14T13:30:26.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qiaoui.github.io"/>
     <link rel="self" href="https://qiaoui.github.io/atom.xml"/>
@@ -39,59 +39,25 @@ QQ群聊：737196960</p>
         <link href="https://qiaoui.github.io/post/yu-yue-ying-yong-oceanos/">
         </link>
         <updated>2021-08-06T13:45:56.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="介绍">介绍</h1>
-<p>来自一个萌新初次做的PPT系统系列</p>
-<h1 id="作者">作者</h1>
-<p>Ascension233（1097512756@qq.com）</p>
-<h1 id="应用权限和版本信息">应用权限和版本信息</h1>
-<p><img src="https://qiaoui.github.io/post-images/1628227778788.png" alt="" loading="lazy"><br>
-应用版本：v1.2</p>
-]]></summary>
-        <content type="html"><![CDATA[<h1 id="介绍">介绍</h1>
-<p>来自一个萌新初次做的PPT系统系列</p>
-<h1 id="作者">作者</h1>
-<p>Ascension233（1097512756@qq.com）</p>
-<h1 id="应用权限和版本信息">应用权限和版本信息</h1>
-<p><img src="https://qiaoui.github.io/post-images/1628227778788.png" alt="" loading="lazy"><br>
-应用版本：v1.2</p>
-<!-- more -->
-<h1 id="下载ui和反馈请点击这里">下载UI和反馈请点击这里</h1>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://qiaoui.github.io/post-images/1628601087125.png" alt="" loading="lazy"></figure>
+<h1 id="下载ui及反馈">下载UI及反馈</h1>
 <p>加入QQ群聊下载或反馈（<strong>推荐</strong>）：737196960</p>
-<h1 id="运行设备">运行设备</h1>
-<p>PowerPoint 2016~2021或Microsoft PowerPoint 365</p>
 <h1 id="应用截图">应用截图</h1>
 <p><img src="https://qiaoui.github.io/post-images/1628344681406.png" alt="" loading="lazy"><br>
 <img src="https://qiaoui.github.io/post-images/1628344690020.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[推荐应用＆投稿示例·QiaoUI]]></title>
+        <title type="html"><![CDATA[应用·QiaoUI]]></title>
         <id>https://qiaoui.github.io/post/qiaoui/</id>
         <link href="https://qiaoui.github.io/post/qiaoui/">
         </link>
         <updated>2021-08-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="介绍">介绍</h1>
-<p>QiaoUI船新版本即将更新啦！ 这一次，从‘新’开始。全新的UI设计，更好的动画效果，等你来体验！</p>
-<h1 id="作者">作者</h1>
-<p>你的秋乔呐</p>
-<h1 id="应用权限和版本信息">应用权限和版本信息</h1>
-<p><img src="https://qiaoui.github.io/post-images/1628227778788.png" alt="" loading="lazy"><br>
-应用版本：Dev</p>
-]]></summary>
-        <content type="html"><![CDATA[<h1 id="介绍">介绍</h1>
-<p>QiaoUI船新版本即将更新啦！ 这一次，从‘新’开始。全新的UI设计，更好的动画效果，等你来体验！</p>
-<h1 id="作者">作者</h1>
-<p>你的秋乔呐</p>
-<h1 id="应用权限和版本信息">应用权限和版本信息</h1>
-<p><img src="https://qiaoui.github.io/post-images/1628227778788.png" alt="" loading="lazy"><br>
-应用版本：Dev</p>
-<!-- more -->
-<h1 id="下载ui和反馈请点击这里">下载UI和反馈请点击这里</h1>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://qiaoui.github.io/post-images/1628837454117.png" alt="" loading="lazy"></figure>
+<h1 id="下载ui及反馈">下载UI及反馈</h1>
 <p>加入QQ群聊下载或反馈（<strong>推荐</strong>）：737196960<br>
 <s>阿里云盘：正在准备<br>
 百度网盘：正在准备</s></p>
-<h1 id="运行设备">运行设备</h1>
-<p>PowerPoint 2016~2021或Microsoft PowerPoint 365</p>
 <h1 id="应用截图">应用截图</h1>
 <p><img src="https://qiaoui.github.io/post-images/1628158292284.png" alt="" loading="lazy"><br>
 <img src="https://qiaoui.github.io/post-images/1628158305266.png" alt="" loading="lazy"><br>
